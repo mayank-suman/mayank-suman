@@ -4,7 +4,7 @@
     <!-- Left Column -->
     <td valign="top" width="50%">
       
-
+###
 I'm a passionate **Senior Software Developer** with over **12 years of experience** building intuitive, user-friendly web applications. I specialize in **React.js**, **JavaScript**, **TypeScript**, and modern frontend technologies. I enjoy solving complex problems, optimizing performance, and delivering seamless user experiences.
 
 - 💻 Frontend Developer specializing in modern web technologies.
@@ -20,7 +20,6 @@ I'm a passionate **Senior Software Developer** with over **12 years of experienc
     </td>
     <!-- Right Column -->
     <td valign="top" width="50%">
-      
 ### Stats
 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-suman&show_icons=true&theme=radical&rank_icon=github)
