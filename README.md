@@ -1,9 +1,9 @@
+### Hi there, I'm Mayank Suman! 👋
 <table>
   <tr>
     <!-- Left Column -->
     <td valign="top" width="50%">
       
-### Hi there, I'm Mayank Suman! 👋
 
 I'm a passionate **Senior Software Developer** with over **12 years of experience** building intuitive, user-friendly web applications. I specialize in **React.js**, **JavaScript**, **TypeScript**, and modern frontend technologies. I enjoy solving complex problems, optimizing performance, and delivering seamless user experiences.
 
